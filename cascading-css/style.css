@@ -1,0 +1,25 @@
+ul {
+    margin-left: 0px;
+    color: rgb(255, 0, 0);
+  }
+  
+  .first-item-class {
+    color: rgb(0, 255, 0);
+  }
+  
+  #first-item-id {
+    color: rgb(4, 0, 255);
+  }
+  
+  #first-item-id {
+    color: rgb(230, 0, 255);
+  }
+
+  #second-item-id {
+    color: rgb(23, 119, 255);
+  }
+  .second-item-class {
+    color: rgb(0, 255, 103);
+  }
+  
+  <!-- Nullify : 웹 브라우저가 제공하는 기본 CSS를 지우는 기능 -->
